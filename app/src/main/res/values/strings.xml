@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Permissoes</string>
+    <string name="tirar_foto">Tirar foto</string>
+    <string name="foto_tirada">Foto tirada pela câmera</string>
+    <string name="pedir_microfone">Pedir microfone</string>
+    <string name="pedir_multiplas">Pedir câmera e microfone</string>
+    <string name="pedir_localizacao">Pedir localização</string>
+</resources>
